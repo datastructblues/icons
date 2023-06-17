@@ -1,0 +1,20 @@
+{
+  "name": "San Antonio Spurs",
+  "colors": [
+    "Silver",
+    "Black"
+  ],
+  "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/sanantonio.png?token=GHSAT0AAAAAACALEYM6LK2DBYYELDSQNUDQZEBWYTA",
+  "championship": "5",
+  "established": "1967",
+  "franchise_star": "Tim Duncan",
+  "retired": [
+    9,
+    20,
+    21,
+    25
+  ],
+  "mascot": "Coyote",
+  "arena": "AT&T Center",
+  "gleague_team": "Austin Spurs"
+}
