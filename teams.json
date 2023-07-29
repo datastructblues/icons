@@ -3,7 +3,7 @@
     {
       "name": "Atlanta Hawks",
       "colors": ["Red", "Black", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/atlanta.png?token=GHSAT0AAAAAACELHK3BMHQPBFSY5V2OFSZWZGEBMBA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/atlanta.png",
       "championship": "1",
       "established": "1946",
       "franchise_star": "Dominique Wilkins",
@@ -15,7 +15,7 @@
     {
       "name": "Boston Celtics",
       "colors": ["Green", "Gold"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/boston.png?token=GHSAT0AAAAAACELHK3BWFBTQBRSXWD2TM7UZGEBMZA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/boston.png",
       "championship": "17",
       "established": "1946",
       "franchise_star": "Larry Bird",
@@ -27,7 +27,7 @@
     {
       "name": "Brooklyn Nets",
       "colors": ["Black", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/brooklyn.png?token=GHSAT0AAAAAACELHK3AISK7PEVPV4B7WNUYZGEDEJA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/brooklyn.png",
       "championship": "0",
       "established": "1967",
       "franchise_star": "Julius Erving",
@@ -39,7 +39,7 @@
     {
       "name": "Charlotte Hornets",
       "colors": ["Teal", "Purple"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/charlotte.png?token=GHSAT0AAAAAACELHK3AV2M2LK4MF2SE2GA6ZGEDESA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/charlotte.png",
       "championship": "0",
       "established": "1988",
       "franchise_star": "Larry Johnson",
@@ -51,7 +51,7 @@
     {
       "name": "Chicago Bulls",
       "colors": ["Red", "Black", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/chicago.png?token=GHSAT0AAAAAACELHK3AKR5FC3K6SI5NRTSEZGEDEZQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/chicago.png",
       "championship": "6",
       "established": "1966",
       "franchise_star": "Michael Jordan",
@@ -63,7 +63,7 @@
     {
       "name": "Cleveland Cavaliers",
       "colors": ["Wine", "Gold", "Navy"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/cleveland.png?token=GHSAT0AAAAAACELHK3AGGCHAWPSBQA33CFQZGEDE7Q",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/cleveland.png",
       "championship": "1",
       "established": "1970",
       "franchise_star": "LeBron James",
@@ -75,7 +75,7 @@
     {
       "name": "Dallas Mavericks",
       "colors": ["Navy", "Silver", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/dallas.png?token=GHSAT0AAAAAACELHK3AVG4NOLNJBQJVH2GWZGEDF2A",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/dallas.png",
       "championship": "1",
       "established": "1980",
       "franchise_star": "Dirk Nowitzki",
@@ -87,7 +87,7 @@
     {
       "name": "Denver Nuggets",
       "colors": ["Navy", "Gold", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/denver.png?token=GHSAT0AAAAAACELHK3ARZOSHOERTBYV3KSAZGEDHDA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/denver.png",
       "championship": "0",
       "established": "1967",
       "franchise_star": "Alex English",
@@ -99,7 +99,7 @@
     {
       "name": "Detroit Pistons",
       "colors": ["Red", "White", "Blue"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/detroit.png?token=GHSAT0AAAAAACELHK3BEUDSB4EPWKWO3EA6ZGEDIGQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/detroit.png",
       "championship": "3",
       "established": "1941",
       "franchise_star": "Isiah Thomas",
@@ -111,7 +111,7 @@
     {
       "name": "Golden State Warriors",
       "colors": ["Royal Blue", "Gold"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/goldenstate.png?token=GHSAT0AAAAAACELHK3BOYJE4RJCOGAE5VI4ZGEDI3Q",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/goldenstate.png",
       "championship": "6",
       "established": "1946",
       "franchise_star": "Stephen Curry",
@@ -123,7 +123,7 @@
     {
       "name": "Houston Rockets",
       "colors": ["Red", "Black"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/houston.png?token=GHSAT0AAAAAACELHK3BVF2D6365KFDF55LCZGEDJHQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/houston.png",
       "championship": "2",
       "established": "1967",
       "franchise_star": "Hakeem Olajuwon",
@@ -135,7 +135,7 @@
     {
       "name": "Indiana Pacers",
       "colors": ["Navy", "Gold"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/indiana.png?token=GHSAT0AAAAAACELHK3BTE7H2YSRIQXNUCHMZGEDJ2A",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/indiana.png",
       "championship": "0",
       "established": "1967",
       "franchise_star": "Reggie Miller",
@@ -147,7 +147,7 @@
     {
       "name": "Los Angeles Clippers",
       "colors": ["Red", "Blue"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/losangelesclippers.png?token=GHSAT0AAAAAACELHK3BBEPHDT2X72VKDXVWZGEDKAQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/losangelesclippers.png",
       "championship": "0",
       "established": "1970",
       "franchise_star": "Blake Griffin",
@@ -159,7 +159,7 @@
        {
       "name": "Los Angeles Lakers",
       "colors": ["Purple", "Gold"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/losangeleslakers.png?token=GHSAT0AAAAAACELHK3AT6PLWQ5GGUEODVPWZGEDKHA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/losangeleslakers.png",
       "championship": "17",
       "established": "1947",
       "franchise_star": "Magic Johnson",
@@ -171,7 +171,7 @@
     {
       "name": "Memphis Grizzlies",
       "colors": ["Navy", "Beale Street Blue", "Smoke Blue", "Flat Black"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/memphis.png?token=GHSAT0AAAAAACELHK3BTF3FDKJQBC4Z6TW4ZGEDKNA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/memphis.png",
       "championship": "0",
       "established": "1995",
       "franchise_star": "Marc Gasol",
@@ -183,7 +183,7 @@
     {
       "name": "Miami Heat",
       "colors": ["Red", "Black", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/miami.png?token=GHSAT0AAAAAACELHK3B2QXDQ6S22W5IXM5AZGEDKTQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/miami.png",
       "championship": "3",
       "established": "1988",
       "franchise_star": "Dwyane Wade",
@@ -195,7 +195,7 @@
     {
       "name": "Milwaukee Bucks",
       "colors": ["Green", "Cream"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/milwaukee.png?token=GHSAT0AAAAAACELHK3BYLGYVVTRKBRX4KUSZGEDK6A",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/milwaukee.png",
       "championship": "1",
       "established": "1968",
       "franchise_star": "Kareem Abdul-Jabbar",
@@ -207,7 +207,7 @@
     {
       "name": "Minnesota Timberwolves",
       "colors": ["Blue", "Green", "Silver", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/minnesota.png?token=GHSAT0AAAAAACELHK3B373HMK425CON6WKOZGEDLDA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/minnesota.png",
       "championship": "0",
       "established": "1989",
       "franchise_star": "Kevin Garnett",
@@ -219,7 +219,7 @@
     {
       "name": "New Orleans Pelicans",
       "colors": ["Navy", "Gold"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/neworleans.png?token=GHSAT0AAAAAACELHK3A23XVGBGTBVU5CKISZGEDLKQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/neworleans.png",
       "championship": "0",
       "established": "2002",
       "franchise_star": "Anthony Davis",
@@ -231,7 +231,7 @@
     {
       "name": "New York Knicks",
       "colors": ["Blue", "Orange", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/newyork.png?token=GHSAT0AAAAAACELHK3BQWQQLG5C4FHT5756ZGEDLQQ",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/newyork.png",
       "championship": "2",
       "established": "1946",
       "franchise_star": "Patrick Ewing",
@@ -243,7 +243,7 @@
     {
       "name": "Oklahoma City Thunder",
       "colors": ["Navy", "Sunset"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/oklahomacity.png?token=GHSAT0AAAAAACELHK3AP4M4KT6J3NRYJEHGZGEDLWA",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/oklahomacity.png",
       "championship": "1",
       "established": "1967",
       "franchise_star": "Kevin Durant",
@@ -255,7 +255,7 @@
     {
       "name": "Orlando Magic",
       "colors": ["Blue", "Black", "Silver", "White"],
-      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/orlando.png?token=GHSAT0AAAAAACELHK3AVZF6D45QJXFOHPE6ZGEDL5A",
+      "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/orlando.png,
       "championship": "0",
       "established": "1989",
       "franchise_star": "Shaquille O'Neal",
@@ -267,7 +267,7 @@
     {
         "name": "Philadelphia 76ers",
         "colors": ["Blue", "Red", "White"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/philadelphia.png?token=GHSAT0AAAAAACELHK3AKKGFAEDMYRB745Y4ZGEDM7A",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/philadelphia.png",
         "championship": "3",
         "established": "1946",
         "franchise_star": "Allen Iverson",
@@ -278,7 +278,7 @@
       },    {
         "name": "Phoenix Suns",
         "colors": ["Purple", "Orange", "Black"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/phoenix.png?token=GHSAT0AAAAAACELHK3BAYMXFNXKVWUKMM4CZGEDNFA",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/phoenix.png",
         "championship": "0",
         "established": "1968",
         "franchise_star": "Charles Barkley",
@@ -290,7 +290,7 @@
       {
         "name": "Portland Trail Blazers",
         "colors": ["Red", "Black"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/portland.png?token=GHSAT0AAAAAACELHK3ABUMPYWOLKKV7EUUYZGEDNLQ",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/portland.png",
         "championship": "1",
         "established": "1970",
         "franchise_star": "Clyde Drexler",
@@ -302,7 +302,7 @@
       {
         "name": "Sacramento Kings",
         "colors": ["Purple", "Black", "White", "Silver"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/sacremento.png?token=GHSAT0AAAAAACELHK3BCKNLCD5GLGMIFVAGZGEDNRQ",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/sacremento.png",
         "championship": "1",
         "established": "1923",
         "franchise_star": "Chris Webber",
@@ -314,7 +314,7 @@
       {
         "name": "San Antonio Spurs",
         "colors": ["Silver", "Black"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/sanantonio.png?token=GHSAT0AAAAAACELHK3A2GWL3UXLPHN6IB24ZGEDOAQ",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/sanantonio.png",
         "championship": "5",
         "established": "1967",
         "franchise_star": "Tim Duncan",
@@ -326,7 +326,7 @@
       {
         "name": "Toronto Raptors",
         "colors": ["Red", "Black", "Gold"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/toronto.gif?token=GHSAT0AAAAAACELHK3A2CREHLAY2P6IHZ2WZGEDOPA",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/toronto.gif",
         "championship": "1",
         "established": "1995",
         "franchise_star": "Vince Carter",
@@ -338,7 +338,7 @@
       {
         "name": "Utah Jazz",
         "colors": ["Navy", "Gold", "Green", "White"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/utah.png?token=GHSAT0AAAAAACELHK3AD42DJAQ5ZGGWDQUSZGEDOZA",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/utah.png",
         "championship": "0",
         "established": "1974",
         "franchise_star": "Karl Malone",
@@ -350,7 +350,7 @@
       {
         "name": "Washington Wizards",
         "colors": ["Red", "Blue", "White", "Silver"],
-        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/washington.png?token=GHSAT0AAAAAACELHK3B6RP3C37DMEYHZP7WZGEDO7A",
+        "logo": "https://raw.githubusercontent.com/datastructblues/icons/main/washington.png",
         "championship": "1",
         "established": "1961",
         "franchise_star": "Elvin Hayes",
